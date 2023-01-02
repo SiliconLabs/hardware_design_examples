@@ -13,24 +13,31 @@
 
 # Silicon Labs Hardware Design Examples #
 
-TBD
+This repository contains hardware design examples using Silicon Labs' devices. The main purpose of these examples is to accelerate the initial development process by providing a ready-to-use hardware platform.
+
+Besides the design files, typically a test report and/or a user's manual is included summarizing some performance details of a built test unit sample.
+
+## How to use the examples ##
+The designs include complete manufacturing data files that can be used to fabricate the PCBs and pupolate them with the required components. After these steps the assembled units can be used to start the software/firmware development.
+
+The designs can be also used as a starting point for further hardware development and modified freely according to the specific requirements.
+
+## Organization of the Hardware Design Examples (Branches and Folders) ##
+The examples are organized into branches of this repository based on the used device family. The designs belonging to the same device family can be found in the branch named accordingly.
+
+Under the branches the folder naming convention is the following:
+
+DeviceFamily_PackageType_Frequency_TXPower_NumberOfLayers_OtherInformation\
+
 
 ## Examples ##
 
-- TBD
+The repository contains the following Hardware Design Examples:
+- EFR32xG1x_QFN48_subGHz_14dBm_4layers_DiscreteBalun
+- EFR32xG22_QFN32_2p4GHz_6dBm_2layers
+- EFR32xG22_QFN32_2p4GHz_8dBm_4layers_BLE_Tag
 
-## Documentation ##
 
-Official documentation can be found at our [Developer Documentation](TBD) page.
+## Disclaimer / Terms and Conditions ##
 
-## Reporting Bugs/Issues and Posting Questions and Comments ##
-
-To report bugs in the Application Examples projects, please create a new "Issue" in the "Issues" section of this repo. Please reference the board, project, and source files associated with the bug, and reference line numbers. If you are proposing a fix, also include information on the proposed fix. Since these examples are provided as-is, there is no guarantee that these examples will be updated to fix these issues.
-
-Questions and comments related to these examples should be made by creating a new "Issue" in the "Issues" section of this repo.
-
-## Disclaimer ##
-
-TBD
-
-The Gecko SDK suite supports development with Silicon Labs IoT SoC and module devices. Unless otherwise specified in the specific directory, all examples are considered to be EXPERIMENTAL QUALITY which implies that the code provided in the repos has not been formally tested and is provided as-is.  It is not suitable for production environments.  In addition, this code will not be maintained and there may be no bug maintenance planned for these resources. Silicon Labs may update projects from time to time.
+The Hardare Design Examples in this repository are provided AS IS. By downloading and using them, the user assumes and bears all liability emerging from the application of these examples.
