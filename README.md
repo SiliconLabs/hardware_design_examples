@@ -40,4 +40,4 @@ The repository contains the following Hardware Design Examples:
 
 ## Disclaimer / Terms and Conditions ##
 
-The Hardare Design Examples in this repository are provided AS IS. By downloading and using them, the user assumes and bears all liability emerging from the application of these examples.
+The Hardware Design Examples in this repository are provided AS IS. By downloading and using them, the user assumes and bears all liability emerging from the application of these examples.
