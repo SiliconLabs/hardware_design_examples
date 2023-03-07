@@ -33,9 +33,15 @@ DeviceFamily_PackageType_Frequency_TXPower_NumberOfLayers_OtherInformation\
 ## Examples ##
 
 The repository contains the following Hardware Design Examples:
-- EFR32xG1x_QFN48_subGHz_14dBm_4layers_DiscreteBalun
-- EFR32xG22_QFN32_2p4GHz_6dBm_2layers
-- EFR32xG22_QFN32_2p4GHz_8dBm_4layers_BLE_Tag
+- EFR32xG1x_QFN48_434MHz_10dBm_4layers_IPD
+- EFR32xG1x_QFN48_868MHz_13dBm_4layers_IPD
+- EFR32xG1x_QFN48_subGHz_14/20dBm_4layers_Discrete_SingleBand
+- EFR32xG1x_QFN48_subGHz_19.5dBm_4layers_Discrete_MultiBand
+- EFR32xG1x_QFN48_subGHz_19dBm_4layers_Discrete_WideBand
+- EFR32xG1x_QFN48_subGHz_20dBm_4layers_Discrete_DualBand
+- EFR32xG1x_QFN48_subGHz_20dBm_4layers_Discrete_Dual-WideBand
+- EFR32xG22_QFN32_2p4GHz_6dBm_2layers_Low_Cost
+- EFR32xG22_QFN32_2p4GHz_6dBm_4layers_BLE_Tag
 
 
 ## Disclaimer / Terms and Conditions ##
