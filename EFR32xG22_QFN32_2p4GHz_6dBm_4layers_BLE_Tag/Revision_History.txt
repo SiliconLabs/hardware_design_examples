@@ -1,0 +1,6 @@
+Rev A00: 
+Original release
+
+Rev A01:
+- R9 resistor value change to 2kOhm
+- Fixing LED orientation by rotating it by 180 degrees

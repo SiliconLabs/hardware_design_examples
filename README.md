@@ -27,15 +27,12 @@ The examples are organized into branches of this repository based on the used de
 
 Under the branches the folder naming convention is the following:
 
-DeviceFamily_PackageType_Frequency_TXPower_NumberOfLayers_OtherInformation\
+DeviceFamily_PackageType_Frequency_TXPower_NumberOfPCBLayers_OtherInformation\
 
 
 ## Examples ##
 
-The repository contains the following Hardware Design Examples:
-- EFR32xG1x_QFN48_subGHz_14dBm_4layers_DiscreteBalun
-- EFR32xG22_QFN32_2p4GHz_6dBm_2layers
-- EFR32xG22_QFN32_2p4GHz_8dBm_4layers_BLE_Tag
+For a list of examples in this repository see the README content on the master branch.
 
 
 ## Disclaimer / Terms and Conditions ##
