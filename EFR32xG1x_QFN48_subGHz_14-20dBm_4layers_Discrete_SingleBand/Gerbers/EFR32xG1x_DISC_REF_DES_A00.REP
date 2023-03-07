@@ -1,0 +1,36 @@
+*************************************************************
+FileName = EFR32xG1x_DISC_REF_DES_A00.GBR
+AutoAperture = True
+*************************************************************
+Generating : Drill Drawing
+      File : EFR32xG1x_DISC_REF_DES_A00.GD1
+
+    Adding Layer      : BOARD OUTLINE 1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : EFR32xG1x_DISC_REF_DES_A00.GG1
+
+    Adding Layer      : BOARD OUTLINE 1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+

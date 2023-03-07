@@ -1,0 +1,15 @@
+DRC Rules Export File for PCB: C:\Users\alwang\Silicon_Labs\Internal project\EFR32 Sub-GHz Discrete Balun Reference\EFR32xG1x_DISC_REF_DES_A00\Source\EFR32xG1x_DISC_REF_DES_A00.PcbDoc
+RuleKind=Clearance|RuleName=ClearanceANT1|Scope=Board|Minimum=0.00
+RuleKind=ShortCircuit|RuleName=ShortCircuitANT1|Scope=Board|Allowed=1
+RuleKind=Clearance|RuleName=Clearance_to_RF3|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_to_RF2|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_to_RF1|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_to_Holes|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_50Ohm|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clerance_Polygon_GND4|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clerance_Polygon_GND1|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clerance_Polygon_GND2|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clerance_Polygon_GND3|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance_General|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.00
