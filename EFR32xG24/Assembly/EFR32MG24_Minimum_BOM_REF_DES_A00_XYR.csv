@@ -1,0 +1,60 @@
+Altium Designer Pick and Place Locations
+C:\Users\daszabo\Desktop\Bobcat Minimum BOM final touches\EFR32MG24_Minimum_BOM_REF_DES\working\RevA00\design files\Project\Project Outputs for Project\Pick Place for Layout.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/03/23
+Time:       12:38
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"ANT","INVERTED_F","TopLayer","ANT_MEANDERED_2445_-_FABRICATION_-_cut","7.9002","6.7869","90",""
+"BAT-GND-LEVER","2991","BottomLayer","2991","1.9750","1.7400","180","Undefined or Miscellaneous"
+"IC1","EFR32MG24A010F1536IM40-B","TopLayer","QFN40_M040_5.0X5.0_EP_RP_SL","1.7380","1.8336","135",""
+"TP15","TP","TopLayer","TP_1.0_SMD","7.9000","-1.7250","90",""
+"TP13","TP","TopLayer","TP_1.0_SMD","6.6250","-9.4250","90",""
+"R7","RSEL","TopLayer","R0201_L","10.3000","-6.2000","270",""
+"C5","10U","TopLayer","C0402_L","9.5500","-5.2000","180",""
+"ANT_TUNE1","0R","TopLayer","COIL_0201_L","8.9000","3.9750","0",""
+"R6","NM","TopLayer","R0201_L","-3.1250","2.3750","0",""
+"R5","0R","TopLayer","R0201_L","0.4500","-2.9500","90",""
+"TP14","TP","TopLayer","TP_1.0_SMD","-3.1250","-12.0250","90",""
+"ANT_TUNE2","NM","TopLayer","C0201_L","9.6000","3.3250","270",""
+"C7","NM","TopLayer","C0402_L","0.3250","-11.0500","0",""
+"R4","NM","TopLayer","R0201_L","6.3750","-8.5250","180",""
+"R3","0R","TopLayer","R0201_L","6.1250","-8.2250","270",""
+"BAT_HLDR","BAT-HLD-012-SMT","BottomLayer","BATHLD012SMT","1.3000","-0.0500","180","BATTERY RETAINER COIN 12MM SMD"
+"IC3","MAX17223ELT+","TopLayer","MAX17223ELT","9.0250","-7.0000","90","Integrated Circuit"
+"L4","1U","TopLayer","C0603_L","7.5250","-4.9500","270",""
+"MINI DEBUG HEADER","FTSH-105-01-F-DV-K","TopLayer","FTSH_105_01_L_DV_K","-4.8000","-6.7250","180","Male Header, Pitch 1.27 mm, 2 x 5 Position, Height 6.12 mm, RoHS, Tube"
+"TP11","TP","TopLayer","TP_1.0_SMD","2.2250","6.2000","90",""
+"TP10","TP","TopLayer","TP_1.0_SMD","0.7500","6.1750","90",""
+"TP12","TP","TopLayer","TP_1.0_SMD","9.3000","0.0750","270",""
+"TP9","TP","TopLayer","TP_1.0_SMD","1.4250","-3.3000","90",""
+"TP8","TP","TopLayer","TP_1.0_SMD","2.3500","-2.4250","90",""
+"TP7","TP","TopLayer","TP_1.0_SMD","6.4000","-2.8250","90",""
+"TP6","TP","TopLayer","TP_1.0_SMD","6.2500","-5.2250","90",""
+"TP2","TP","TopLayer","TP_1.0_SMD","-2.4750","5.7250","90",""
+"TP1","TP","TopLayer","TP_1.0_SMD","-0.5250","5.7250","0",""
+"TP5","TP","TopLayer","TP_1.0_SMD","5.2250","-5.7250","90",""
+"TP4","TP","TopLayer","TP_1.0_SMD","5.3750","-6.9250","90",""
+"TP3","TP","TopLayer","TP_1.0_SMD","6.3000","-4.1000","90",""
+"2","Sensor Electrode","TopLayer","Sensor_Electrode","2.4250","-12.4500","90",""
+"R2","NM","TopLayer","R0201_L","8.4500","-9.9000","180","100K,±0.1%,0402"
+"R1","NM","TopLayer","R0201_L","7.6750","-9.2750","90","100K,±0.1%,0402"
+"C6","10U","TopLayer","C0402_L","7.6500","-7.4000","270",""
+"3","Sensor Electrode","TopLayer","Sensor_Electrode","-0.9000","-13.0500","90",""
+"1","Sensor Electrode","TopLayer","Sensor_Electrode","5.8750","-11.7250","90",""
+"IC2","LMP91000SDE","TopLayer","SON50P400X400X80-15N","1.3500","-7.8250","270","Integrated Circuit"
+"C1","1P4","TopLayer","C0201_L","4.8250","4.6500","135",""
+"X1","39.000 MHz","TopLayer","X_SSS_DSX211SH_2.05X1.65-4","6.2250","0.2250","225",""
+"L3","2U2","TopLayer","COIL_1008_L","-3.9750","0.3750","270",""
+"L2","BLM03AG700SN1D","TopLayer","COIL_MUR_BLM03_0201","5.3250","2.8750","135",""
+"L0","1N8","TopLayer","COIL_0201_L","4.6000","3.8750","45",""
+"CC1","18P","TopLayer","C0201_L","5.6500","4.4250","315",""
+"C4","1U","TopLayer","C0402_L","-0.9250","-1.4000","270",""
+"C3","1U","TopLayer","C0402_L","-2.8500","2.9750","180",""
+"C2","4U7","TopLayer","C0603_L","-1.8750","-1.1000","270",""
