@@ -42,6 +42,7 @@ The repository contains the following Hardware Design Examples:
 - EFR32xG1x_QFN48_subGHz_20dBm_4layers_Discrete_Dual-WideBand
 - EFR32xG22_QFN32_2p4GHz_6dBm_2layers_Low_Cost
 - EFR32xG22_QFN32_2p4GHz_6dBm_4layers_BLE_Tag
+- EFR32xG24_QFN40_2p4GHz_0dBm_4layers_MinimumBOM
 
 
 ## Disclaimer / Terms and Conditions ##
