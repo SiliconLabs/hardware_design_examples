@@ -1,5 +1,5 @@
 
-![Illustration](picture.jpg)
+![Illustration](picture.png)
 
 OpenEMS Antenna Simulation Workbench
 ====================================
