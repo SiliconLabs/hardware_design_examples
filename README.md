@@ -64,4 +64,4 @@ The primary goal of this project is to help the development of wireless electron
 
 ## Disclaimer
 
-The Hardware Design Examples in this repository are provided AS IS. By downloading and using them, the user assumes and bears all liability emerging from the application of these examples.
+Everything in this repository is provided AS IS. By downloading and using them, the user assumes and bears all liability emerging from the application of these examples.
