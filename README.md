@@ -1,50 +1,67 @@
-<table border="0">
-  <tr>
-    <td align="left" valign="middle">
-    <h1>Hardware Design Examples</h1>
-  </td>
-  <td align="left" valign="middle">
-    <a href="https://www.silabs.com/wireless">
-      <img src="http://pages.silabs.com/rs/634-SLU-379/images/WGX-transparent.png"  title="Wireless and RF Solutions" alt="Wireless and RF Solutions" width="250"/>
-    </a>
-  </td>
-  </tr>
-</table>
 
-# Silicon Labs Hardware Design Examples #
+OpenEMS Antenna Simulation Workbench
+====================================
 
-This repository contains hardware design examples using Silicon Labs' devices. The main purpose of these examples is to accelerate the initial development process by providing a ready-to-use hardware platform.
+*OpenEMS Antenna Simulation Workbench* is an antenna simulation focused extension developed by *Silicon Laboratories* for the free and open source EM solver - *OpenEMS*.
 
-Besides the design files, typically a test report and/or a user's manual is included summarizing some performance details of a built test unit sample.
+## Project goal
 
-## How to use the examples ##
-The designs include complete manufacturing data files that can be used to fabricate the PCBs and pupolate them with the required components. After these steps the assembled units can be used to start the software/firmware development.
+Simulation is usually an essential part of the of wireless hardware development. It enables the analysis and optimization of antennas without actually manufacturing and measuring them which ultimately results reduced expenses and time to market. Furthermore, an antenna which was already tuned using an EM simulator has in most cases superior initial performance and in some cases bench tuning can be completely eliminated.
 
-The designs can be also used as a starting point for further hardware development and modified freely according to the specific requirements.
+The primary goal of this project is to help the development of wireless electronic devices by providing a free, open-source and easy-to-use tool for antenna simulations.
 
-## Organization of the Hardware Design Examples (Branches and Folders) ##
-The examples are organized into branches of this repository based on the used device family. The designs belonging to the same device family can be found in the branch named accordingly.
+## Main features
 
-Under the branches the folder naming convention is the following:
+* Script-based simulation description
+* Simple configuration using a collection of variables and structures
+* Automatic mesh generation based on material properties.
+* Configurable mesh resolution at the edges to limit inaccuracy due to meshing
+* Antenna port reflection (*S<sub>11</sub>*) calculation and plotting
+* Antenna gain and efficiency calculation using *near-field to far-field* conversion
+* 3D gain pattern export
+* The executed script, the generated model and the post-processing results are automatically archived for each run (session)
+* Support for including *.STL* model files (e.g. of an enclosure)
+* Example projects
+* Template file for custom projects
 
-DeviceFamily_PackageType_Frequency_TXPower_NumberOfLayers_OtherInformation\
+## Requirements & Dependencies
+
+* Windows (x64)
+* [Octave](https://www.gnu.org/software/octave/)
+* [OpenEMS](https://openems.de/)
+* [ParaView](https://www.paraview.org) (Optional)
+* [STL read for Octave](https://github.com/bltsandwich1/STLread_for_Octave/) (Optional)
+
+## Installation
+
+1. Download and install Octave (https://www.gnu.org/software/octave/download#ms-windows)
+2. Download and extract OpenEMS (https://openems.de/download/win64/openEMS_x64_v0.0.35-67-ga013077.zip)
+3. Download (or clone) and extract this repository
+4. (Optional) If you need advanced 3D visualizations (e.g. 3D gain patterns) download and install *ParaView* (https://www.paraview.org/download/, in most cases the standard (non-MPI) version is suitable)
+5. (Optional) If you want to import STL models (e.g. of plastic enclosures) to the simulation then download and extract *STLread for Octave* (https://github.com/bltsandwich1/STLread_for_Octave/archive/master.zip)
+6. Add the OpenEMS and workbench functions to Octave's path. To do this permanently, open `C:\Users\{username}\.octaverc` (create the file if needed) and add the following commands to the end of the file:
+   ```Matlab
+   addpath('{Full path to the matlab folder in the extracted OpenEMS folder}');
+   addpath('{Full path to workbench_functions folder}');
+   ```
+   (If you want to use *STLread for Octave* too then add it's root folder to the path as well.)
+
+     **Example:**
+   ```Matlab
+   addpath('C:\Octave\LIBS\openEMS\matlab');
+   addpath('c:\Octave\OpenEMS-Antenna-Simulation-Workbench\workbench_functions');
+   addpath('c:\Octave\LIBS\STLread_for_Octave-master');
+   ```
 
 
-## Examples ##
+7. Open Octave and in the command window type `pkg install -forge -verbose signal` to install the signal package from the web (It can take up to 15 minutes!)
+8. Some issues in the past were resolved by running the `setup` command in Octave after installation. This is recommended to avoid unwanted errors with using compiled .oct functions.
 
-The repository contains the following Hardware Design Examples:
-- EFR32xG1x_QFN48_434MHz_10dBm_4layers_IPD
-- EFR32xG1x_QFN48_868MHz_13dBm_4layers_IPD
-- EFR32xG1x_QFN48_subGHz_14/20dBm_4layers_Discrete_SingleBand
-- EFR32xG1x_QFN48_subGHz_19.5dBm_4layers_Discrete_MultiBand
-- EFR32xG1x_QFN48_subGHz_19dBm_4layers_Discrete_WideBand
-- EFR32xG1x_QFN48_subGHz_20dBm_4layers_Discrete_DualBand
-- EFR32xG1x_QFN48_subGHz_20dBm_4layers_Discrete_Dual-WideBand
-- EFR32xG22_QFN32_2p4GHz_6dBm_2layers_Low_Cost
-- EFR32xG22_QFN32_2p4GHz_6dBm_4layers_BLE_Tag
-- EFR32xG24_QFN40_2p4GHz_0dBm_4layers_MinimumBOM
+## Usage
 
+* [Example projects](examples)
+* [How to create a custom PCB antenna simulation using the template](template)
 
-## Disclaimer / Terms and Conditions ##
+## Disclaimer
 
 The Hardware Design Examples in this repository are provided AS IS. By downloading and using them, the user assumes and bears all liability emerging from the application of these examples.
