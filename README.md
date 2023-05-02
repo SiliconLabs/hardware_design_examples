@@ -44,7 +44,10 @@ The repository contains the following Hardware Design Examples:
 - EFR32xG22_QFN32_2p4GHz_6dBm_4layers_BLE_Tag
 - EFR32xG24_QFN40_2p4GHz_0dBm_4layers_MinimumBOM
 
+# Antenna Simulation Workbench
 
-## Disclaimer / Terms and Conditions ##
+This repository also includes an Antenna Simulation Workbench written for OpenEMS, that is designed to help with PCB antenna design and tuning. A guide for getting started and multiple useful examples can be found in the appropriate branch.
 
-The Hardware Design Examples in this repository are provided AS IS. By downloading and using them, the user assumes and bears all liability emerging from the application of these examples.
+# Disclaimer / Terms and Conditions ##
+
+The Hardware Design Examples and the Antenna Simulation Workbench in this repository are provided AS IS. By downloading and using them, the user assumes and bears all liability emerging from the application of these examples.
