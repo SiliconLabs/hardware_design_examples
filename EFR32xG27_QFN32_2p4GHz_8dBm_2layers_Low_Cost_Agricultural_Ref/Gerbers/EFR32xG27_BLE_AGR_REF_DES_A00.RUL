@@ -1,0 +1,13 @@
+DRC Rules Export File for PCB: I:\EFR32_Series-2\Leopard_xG27\EFR32xG27_BLE_AGR_REF_DES\Source_IFA_Final\EFR32xG27_BLE_AGR_REF_DES_A00.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=ShortCircuit|RuleName=ShortCircuit_R3toR4_1|Scope=Board|Allowed=1
+RuleKind=ShortCircuit|RuleName=ShortCircuit_ANTtoPAD|Scope=Board|Allowed=1
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=50ohm|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clerance_Polygon_GND|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_50Ohm|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_to_Holes|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_R3_R4|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance_to_Antenna|Scope=Board|Minimum=0.00

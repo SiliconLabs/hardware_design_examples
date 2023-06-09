@@ -1,0 +1,276 @@
+*************************************************************
+FileName = EFR32xG27_BLE_AGR_REF_DES_A00.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : EFR32xG27_BLE_AGR_REF_DES_A00.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : EFR32xG27_BLE_AGR_REF_DES_A00.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
+    D34
+    D35
+    D37
+    D38
+    D40
+    D42
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : EFR32xG27_BLE_AGR_REF_DES_A00.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D32
+    D33
+    D34
+    D42
+    D48
+    D60
+    D61
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : EFR32xG27_BLE_AGR_REF_DES_A00.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : EFR32xG27_BLE_AGR_REF_DES_A00.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : EFR32xG27_BLE_AGR_REF_DES_A00.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D54
+    D55
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : EFR32xG27_BLE_AGR_REF_DES_A00.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : EFR32xG27_BLE_AGR_REF_DES_A00.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D32
+    D39
+    D61
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : M7 Board Outline
+      File : EFR32xG27_BLE_AGR_REF_DES_A00.GM7
+
+    Adding Layer      : M7 Board Outline
+
+
+Used DCodes :
+    D32
+    D62
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : EFR32xG27_BLE_AGR_REF_DES_A00.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D32
+    D33
+    D42
+    D46
+    D49
+    D63
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : EFR32xG27_BLE_AGR_REF_DES_A00.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D67
+*************************************************************
+
