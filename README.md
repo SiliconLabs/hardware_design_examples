@@ -43,6 +43,7 @@ The repository contains the following Hardware Design Examples:
 - EFR32xG22_QFN32_2p4GHz_6dBm_2layers_Low_Cost
 - EFR32xG22_QFN32_2p4GHz_6dBm_4layers_BLE_Tag
 - EFR32xG24_QFN40_2p4GHz_0dBm_4layers_MinimumBOM
+- EFR32xG25_QFN56_868/915MHz_14/16dBm_4layers_Discrete-Match
 
 # Antenna Simulation Workbench
 
