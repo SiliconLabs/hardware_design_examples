@@ -1,0 +1,16 @@
+Rev A02:
+Fixing DCDC configuration mounting options
+Fixing BMA400 interface mounting options
+Fixing silk screen and DRC errors
+
+Rev A01:
+Adding VEXT connector to support external supply
+Adding Touch Interface
+Adding test header for I2C
+Fixing RGB LED pin mapping
+32kHz crystal pad area fix
+EPD DCDC switching FET changed to PMCB60XNZ
+
+
+Rev A00: 
+Original release
