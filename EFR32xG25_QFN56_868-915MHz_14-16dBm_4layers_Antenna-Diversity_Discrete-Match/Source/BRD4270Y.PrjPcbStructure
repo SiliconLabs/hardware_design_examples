@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=01_ Title Page.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01_ Title Page.SchDoc|FileName=02_ RF & Power.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01_ Title Page.SchDoc|FileName=03_ Board Power.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01_ Title Page.SchDoc|FileName=04_ EFR32 Signal Assign.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=01_ Title Page.SchDoc|FileName=05_ WSTK Connectors & B.SchDoc|SheetNumber= 
