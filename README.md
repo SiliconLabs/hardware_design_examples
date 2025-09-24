@@ -29,26 +29,9 @@ Under the branches the folder naming convention is the following:
 
 DeviceFamily_PackageType_Frequency_TXPower_NumberOfLayers_OtherInformation\
 
-
 ## Examples ##
 
-The repository contains the following Hardware Design Examples:
-- EFR32xG1x_QFN48_434MHz_10dBm_4layers_IPD
-- EFR32xG1x_QFN48_868MHz_13dBm_4layers_IPD
-- EFR32xG1x_QFN48_subGHz_14/20dBm_4layers_Discrete_SingleBand
-- EFR32xG1x_QFN48_subGHz_19.5dBm_4layers_Discrete_MultiBand
-- EFR32xG1x_QFN48_subGHz_19dBm_4layers_Discrete_WideBand
-- EFR32xG1x_QFN48_subGHz_20dBm_4layers_Discrete_DualBand
-- EFR32xG1x_QFN48_subGHz_20dBm_4layers_Discrete_Dual-WideBand
-- EFR32xG22_QFN32_2p4GHz_6dBm_2layers_Low_Cost
-- EFR32xG22_QFN32_2p4GHz_6dBm_4layers_BLE_Tag
-- EFR32xG24_QFN40_2p4GHz_0dBm_4layers_MinimumBOM
-- EFR32xG25_QFN56_868/915MHz_14/16dBm_4layers_Discrete-Match
-- EFR32xG27_QFN32_2p4GHz_8dBm_2layers_Low_Cost_Agricultural_Ref
-
-# Antenna Simulation Workbench
-
-This repository also includes an Antenna Simulation Workbench written for OpenEMS, that is designed to help with PCB antenna design and tuning. A guide for getting started and multiple useful examples can be found in the appropriate branch.
+For a list of examples in this repository see the README content on the master branch.
 
 # Disclaimer / Terms and Conditions ##
 
