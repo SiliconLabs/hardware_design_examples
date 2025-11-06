@@ -47,6 +47,7 @@ The repository contains the following Hardware Design Examples:
 - EFR32xG25_QFN56_868/915MHz_14/16dBm_4layers_Discrete-Match
 - EFR32xG27_QFN32_2p4GHz_8dBm_2layers_Low_Cost_Agricultural_Ref
 - EFR32xG28_QFN48_868-915MHz_20dBm_4layers_Antenna-Diversity_Discrete-Match
+- SiWx917M_4-Layer_ExtSw_BRD9057A_REF_DES_A01
 
 # Antenna Simulation Workbench
 
