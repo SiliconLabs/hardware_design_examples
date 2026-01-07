@@ -1,0 +1,1 @@
+Make sure to consider external effects due to non terminating switch.
