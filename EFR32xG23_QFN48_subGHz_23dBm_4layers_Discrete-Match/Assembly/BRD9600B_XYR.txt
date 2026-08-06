@@ -1,0 +1,96 @@
+Altium Designer Pick and Place Locations
+C:\_temp\Project Outputs for FG23_diff_PA_match\Pick Place for FG23_diff_PA_match_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       11/03/26
+Time:       16:37
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Layer       Footprint                      Center-X(mm) Center-Y(mm) Rotation 
+LR1        TopLayer    COIL_0201_GM                   14.5000      22.9000      90       
+CR1        TopLayer    C0201_GM                       14.7750      22.1000      180      
+CF1        TopLayer    C0201_GM                       12.5000      24.0750      0        
+CM1        TopLayer    C0201_GM                       12.2500      22.8500      270      
+CP3        TopLayer    C0201_GM                       13.3250      25.9750      90       
+CM2        TopLayer    C0201_GM                       13.3000      23.2750      90       
+CP1        TopLayer    C0201_GM                       13.0500      21.9500      0        
+L105       TopLayer    COIL_MUR_BLM03_0201            11.5500      22.0750      0        
+U200       BottomLayer TDFN8_M050_2.0X3.0_EP          24.4750      22.8750      270      
+C112       TopLayer    C0201_L                        13.3500      13.0250      270      
+X2         TopLayer    X_MCS_CM8V-T1A                 17.2000      13.7000      270      
+C115       TopLayer    C0402_L                        14.1250      12.0750      270      
+TP1        BottomLayer TP_INGUN_50_OHM_CLOSED_OPENVIA 23.8450      33.7100      0        
+C118       TopLayer    C0201_L                        9.2000       15.8000      270      
+LF3        TopLayer    COIL_0201_GM                   13.1000      26.7750      0        
+LF1        TopLayer    COIL_0201_GM                   13.2750      24.8750      90       
+C106       TopLayer    C0402_L                        10.0000      23.0000      90       
+C105       TopLayer    C0201_L                        9.3500       22.6750      90       
+C107       TopLayer    C0201_L                        10.6250      22.6750      90       
+LF2        TopLayer    COIL_0201_GM                   12.8250      25.9750      90       
+CC2        TopLayer    C0201_GM                       14.6250      25.1500      180      
+CF4        TopLayer    C0201_GM                       13.9000      26.5000      90       
+CF3        TopLayer    C0201_GM                       12.3250      25.9750      90       
+CF2        TopLayer    C0201_GM                       13.7750      24.8750      90       
+CP2        TopLayer    C0201_GM                       12.7750      24.8750      90       
+U1         TopLayer    QFN48_M040_6.0X6.0_EP_SL       13.0000      18.0000      180      
+R103       TopLayer    R0201_L                        21.5000      14.0500      90       
+RP200      BottomLayer RES_MNR04-8                    20.0500      11.6750      0        
+C124       TopLayer    C0201_L                        20.9250      14.1000      270      
+C203       BottomLayer C0201_L                        2.6750       9.0751       180      
+C205       BottomLayer C0805_L                        3.8250       10.4500      180      
+C117       TopLayer    C0603_L                        11.7000      11.4750      270      
+C116       TopLayer    C0201_L                        12.4000      13.7250      0        
+C114       TopLayer    C0201_L                        14.2000      13.2750      0        
+C113       TopLayer    C0402_L                        12.7000      12.0250      270      
+L101       TopLayer    COIL_1008_L                    7.7500       13.1500      270      
+TPJ20      BottomLayer TP_1.0_SMD                     3.3400       1.4500       90       
+P200       BottomLayer SAM_SFC-120-T2-D-A-2X20_SNUM   15.0000      29.0000      0        
+TPJ1       BottomLayer TP_1.0_SMD                     17.7500      8.7500       90       
+TPJ2       BottomLayer TP_1.0_SMD                     18.1000      24.8800      90       
+TPJ3       BottomLayer TP_1.0_SMD                     17.7000      11.3000      90       
+TPJ4       BottomLayer TP_1.0_SMD                     19.0500      19.5500      90       
+TPJ6       BottomLayer TP_1.0_SMD                     19.0200      22.0700      90       
+TPJ7       BottomLayer TP_1.0_SMD                     16.4900      22.0300      90       
+TPJ8       BottomLayer TP_1.0_SMD                     15.6000      24.4000      90       
+TPJ9       BottomLayer TP_1.0_SMD                     27.8500      12.5000      90       
+TPJ10      BottomLayer TP_1.0_SMD                     25.4500      17.2500      90       
+TPJ11      BottomLayer TP_1.0_SMD                     26.6000      14.7500      90       
+TPJ12      BottomLayer TP_1.0_SMD                     25.9500      25.4500      90       
+TPJ13      BottomLayer TP_1.0_SMD                     24.6000      13.2000      90       
+TPJ14      BottomLayer TP_1.0_SMD                     26.3500      20.2000      90       
+TPJ15      BottomLayer TP_1.0_SMD                     26.3500      22.8000      90       
+TPJ16      BottomLayer TP_1.0_SMD                     24.2500      8.7500       90       
+TPJ17      BottomLayer TP_1.0_SMD                     15.5500      17.1000      90       
+C111       TopLayer    C0603_L                        10.5500      13.3250      0        
+C200       BottomLayer C0201_L                        23.7500      20.6000      180      
+C201       BottomLayer C0201_L                        2.6750       8.1250       180      
+C207       BottomLayer C0201_L                        15.3750      20.6500      180      
+R200       BottomLayer R0201_L                        24.5750      20.2000      270      
+R201       BottomLayer R0402_L                        3.7001       8.6751       90       
+TPJ18      BottomLayer TP_1.0_SMD                     8.1500       9.4200       90       
+TPJ19      BottomLayer TP_1.0_SMD                     6.0000       8.4000       90       
+TPJ5       BottomLayer TP_1.0_SMD                     15.5500      19.7000      90       
+P201       BottomLayer SAM_SFC-120-T2-D-A-2X20_SNUM   15.0000      5.0000       0        
+X1         TopLayer    KDS_DSX211SH_2016              18.2749      19.7249      180      
+R211       BottomLayer R0402_L                        8.6249       21.6751      180      
+R210       BottomLayer R0402_L                        8.1749       21.2249      270      
+L103       TopLayer    COIL_MUR_BLM03_0201            8.7750       22.1000      90       
+L102       TopLayer    COIL_MUR_BLM03_0201            18.5750      21.9750      90       
+L104       TopLayer    COIL_MUR_BLM03_0201            16.3250      21.5250      180      
+C101       TopLayer    C0201_L                        17.9750      22.5000      90       
+C103       TopLayer    C0201_L                        16.6500      22.4000      90       
+C102       TopLayer    C0402_L                        17.3250      22.4250      90       
+LM1        TopLayer    COIL_0201_GM                   13.0500      22.4500      0        
+P1         TopLayer    TE_SMA_1814832_TH_VER          25.6000      38.6000      0        
+U100       TopLayer    BGA8_M040_1.24X1.75_WLCSP      19.6250      13.8500      270      
+SH100      TopLayer    shield_21x21mm                 15.0000      19.7500      180      
+C110       TopLayer    C0201_L                        11.2750      14.2500      0        
+C119       TopLayer    C0402_L                        7.8500       15.7500      180      
+R216       BottomLayer R0402_L                        15.6500      9.9000       270      
+R217       BottomLayer R0402_L                        15.1999      10.3501      180      
+CC1        TopLayer    C0201_GM                       14.1750      27.3250      0        
+LM2        TopLayer    COIL_0201_GM                   12.7750      23.2750      90       
